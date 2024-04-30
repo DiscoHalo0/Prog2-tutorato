@@ -1,0 +1,26 @@
+[0]Qual e' la capitale della Bulgaria?
+Malabo
+Sofia
+Budapest
+Bulgaria
+
+
+[1]Qual e' la capitale della Germania?
+Napoli
+Bruxelles
+Berlino
+Parigi
+
+
+[2]Qual e' la capitale dell'Uzbekistan?
+Tashkent
+Nun te preoccupa' waglio' ci sta o mar for
+Varsavia
+Astana
+
+
+[3]Qual e' la capitale della Nigeria?
+Luanda
+Bangui
+N'Djamena
+Abuja

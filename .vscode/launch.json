@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/feder/Desktop/Repository/Prog2-tutorato",
-      "program": "c:/Users/feder/Desktop/Repository/Prog2-tutorato/build/Debug/outDebug",
+      "cwd": "c:/Users/feder/Desktop/università studio/Repository/Prog2-tutorato",
+      "program": "c:/Users/feder/Desktop/università studio/Repository/Prog2-tutorato/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
